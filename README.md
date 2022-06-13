@@ -17,8 +17,8 @@ Through this model we will know:
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-Dataset : https://github.com/shrutich91/BikeSharingAssignment/
-Data dictionary : 
+Dataset : (https://github.com/shrutich91/BikeSharingAssignment/blob/master/day.csv)
+Data dictionary : (https://github.com/shrutich91/BikeSharingAssignment/blob/master/datadictionary.txt)
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
