@@ -10,16 +10,15 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 Through this model we will know:
 - Which variables are significant in predicting the demand for shared bikes.
 - How well those variables describe the bike demands
 
-Dataset : https://github.com/shrutich91/BikeSharingAssignment/
-Data dictionary : 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Dataset : https://github.com/shrutich91/BikeSharingAssignment/blob/master/day.csv
+- Data dictionary : https://github.com/shrutich91/BikeSharingAssignment/blob/master/datadictionary.txt
+
 
 ## Conclusions
 
@@ -45,7 +44,6 @@ As the year increses, the demand is definitely set to increases
 
 81% of the variation of total rentals in training dataset and 84% in test dataset can be explained by the selected features, hence the model accuracy is considered acceptable.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -56,7 +54,6 @@ As the year increses, the demand is definitely set to increases
 - statsmodel - 0.12.2
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 This project has been prepared from learning from Upgrad at https://www.learn.upgrad.com
